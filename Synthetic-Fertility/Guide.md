@@ -2,6 +2,6 @@
 
 ![image info](./Source/sythfrt.png)
 
-## Empire Options
+## Empire Starting Options
 
 __Species & Portrait__
