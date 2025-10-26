@@ -1,6 +1,6 @@
 # Synthethic Fertility
 
-![image info](./Source/sythfrt.png)
+![image info](./Source/empire.png)
 
 ## Empire Starting Options
 
