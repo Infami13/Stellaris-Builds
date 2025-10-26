@@ -16,3 +16,7 @@
 | Starting System    | Any | Home Planet Size is not fixed to 20, contrary to the origin description. |
 | Ruler Traits       | <img width="24" height="21" alt="24px-Scientist" src="https://github.com/user-attachments/assets/0ce53a4b-47fd-48ca-b328-95ea5856b8ec" /> Spark of Genius ||
 
+## Day Zero Setup
+
+| 
+
