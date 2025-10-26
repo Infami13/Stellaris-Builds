@@ -4,5 +4,6 @@
 
 ## Empire Starting Options
 
-| Species & Portrait   |   Any  |
-| 
+| Species & Portrait   | Any  |
+| Origin               | Sythetic Fertility |
+| Government & Ethics  | 1 Militarist | 
