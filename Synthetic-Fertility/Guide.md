@@ -4,4 +4,5 @@
 
 ## Empire Starting Options
 
-__Species & Portrait__
+| Species & Portrait   |   Any  |
+| 
