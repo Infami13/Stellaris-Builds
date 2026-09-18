@@ -24,6 +24,19 @@
 |  | Decadent | Flavorful and does not affect Bio-Trophies |
 |  | Rooted | Controlled settlement of our Bio-Trophies to avoid them migrating to low-habitability ring sections too soon |
 
+## Build Summary
 
+
+
+## Build Strengths
+- High Research Output
+- Low Empire Size
+- High Complex Drone Job Efficiency
+- Extremely high mid-game power spike
+
+## Build Weaknesses
+- Low Unity Output
+- Moderate Research Speed
+- Moderate late-game potential
 
 
