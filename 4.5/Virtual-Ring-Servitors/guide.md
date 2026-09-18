@@ -60,7 +60,7 @@ Build a Civilian Industries and Alloy Foundries in your generic building slots (
 
 ### Other Colonies
 
-Settle the other two Ring Segments as soon as possible; do not move Bio-Trophies there yet. We need to research some technologies and clear blockers to improve the habitability for our bio pops.
+Settle the other two Ring Segments as soon as possible; do not move Bio-Trophies there yet. We need to research some technologies and clear blockers to improve the habitability for our bio pops. Be sure to build Machine Assembly Plants on these colonies too.
 
 ### Key Physics Research <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/9645eed5-26f7-48e6-9224-a38475198ae6" />
 
@@ -102,5 +102,15 @@ First Adopt <img width="24" height="24" alt="image" src="https://github.com/user
 | <img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/4c3b454c-9d6a-40ab-8c8b-cc4031adedd3" /> | Standard Construction Templates | Quicker and cheaper construction |
 
 Do not finish Prosperity yet; now adopt and finish <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/8df951d3-07f2-4daa-9124-1059455fde61" /> Statecraft. Finish Prosperity after finishing Statecraft. We may then pick and finish whichever Tradition Tree of our choosing. For example, <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/dd73dec4-c25e-47d4-9482-c82e3e91731a" /> Discovery can help with our early game research and expansion. Do not start a fourth Tradition Tree until we finish our Virtuality Synthetic Age Ascension and Situation; we will stockpile Unity for this.
+
+### Ascension Perk Progression
+
+<img width="52" height="60" alt="image" src="https://github.com/user-attachments/assets/14af9fd7-20f1-4964-892b-45ab5bfeff79" /> Technological Ascendancy or <img width="52" height="60" alt="image" src="https://github.com/user-attachments/assets/819b73f2-39e8-4980-9c66-e9168f37427f" /> Transcendent Learning would be a good first pick. Then <img width="52" height="60" alt="image" src="https://github.com/user-attachments/assets/123659d1-d255-41de-a067-2b8fd92050e2" /> Enigmatic Engineering as a second. Finally, take 
+<img width="52" height="60" alt="image" src="https://github.com/user-attachments/assets/cf932094-74c3-43f1-928d-8fcadfce04a9" /> Synthetic Age as your third. Synthetic Age will start a simple situation; we will overclock the Situation in the Situation tab and choose to devote all resources whenever prompted to get the best outcome. Near the end of the situation, we will be prompted to choose between Virtuality, Nanotech, and Modularity. We choose Virtuality.
+
+### Mega-Engineering Rush
+
+We will experience a large boost to our economy and research after finishing Virtuality as all available drone jobs will automatically be filled. We now push for Mega-Engineering to start fully repair our Ring Segments. 
+
 
 
