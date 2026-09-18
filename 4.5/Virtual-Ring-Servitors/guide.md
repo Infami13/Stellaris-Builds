@@ -40,3 +40,14 @@ The main focus of this build is to maximize research to rush a Cosmogenesis vict
 - Moderate late-game potential
 
 ## Turn Zero Setup
+| Name | Hotkey | Notes |
+| -------- | -------- | -------- |
+| Government    | F2   | Change Agenda to Finding the Voice <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/0ce6a2de-4fd6-4e4d-b146-7567840b49af" />
+  |
+| Ethics    | Gestalt Consciousness   | Unlocks Machine Intelligence   |
+| Authority    | Machine Intelligence   | Unlocks Rogue Servitor   |
+| Civics    | Rogue Servitor   | Increases Complex Drone efficiency, boosting our Empire's Research and Alloys   |
+|     | Memorialist   | Creates Chronicle Drone jobs from Capital buildings, allowing an additional source of Unity for the early game    |
+| Origin    | Shattered Ring   | Ring Worlds scale very well with Virtual Ascension, especially with Research District Specializations   |
+| Machine Species Traits    | Research Assistants | We will be focusing most of our early game economy on Research to develop and repair our starting Ring World |
+|     | Adaptive Frames | Flexible Trait that allows us to boost both Technician and Research jobs  |
