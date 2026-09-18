@@ -39,7 +39,9 @@ The main focus of this build is to maximize research to rush a Cosmogenesis vict
 - Moderate Research Speed
 - Moderate late-game potential
 
-## Turn Zero Setup
+## Progression
+
+### Turn Zero Setup
 | Icon | Name | Hotkey | Notes | 
 | -------- | -------- | -------- | -------- |
 | <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/0ce6a2de-4fd6-4e4d-b146-7567840b49af" /> | Council    | F2   | Change Agenda to Finding the Voice |
@@ -48,19 +50,26 @@ The main focus of this build is to maximize research to rush a Cosmogenesis vict
 
 ![image](limit.png)
 
-## Expansion
+### Expansion
 
 We will queue two Scientist Ships for Survey of neighboring star systems. We want to add around 20 star systems to our empire as we need this room for Megastructures in the late game. While we only need relatively few systems, we prioritize claiming them before we clash borders with other empires
   
-## Capital Economy
+### Capital Economy
 
 Build a Civilian Industries and Alloy Foundries in your generic building slots (disable and enable them as needed). We will be changing the Mixed Industry district specialization of our Capital to Research Enclave when able. Maintain a healthy amount of energy jobs as we will need a lot of energy to improve our other two Ring Segments.
 
-## Other Colonies
+### Other Colonies
 
 Settle the other two Ring Segments as soon as possible; do not move Bio-Trophies there yet. We need to research some technologies and clear blockers to improve the habitability for our bio pops.
 
-## Key Physics Research <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/9645eed5-26f7-48e6-9224-a38475198ae6" />
+### Key Physics Research <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/9645eed5-26f7-48e6-9224-a38475198ae6" />
+
+| Icon | Name | Tier | Notes | 
+| -------- | -------- | -------- | -------- |
+| <img width="52" height="52" alt="image" src="https://github.com/user-attachments/assets/3bde96a8-2247-48e1-b23d-f58e7df18a14" /> | Quantum Computing | 1 | Unlocks building to boost Physics Subroutine Drones |
+| <img width="52" height="52" alt="image" src="https://github.com/user-attachments/assets/f9bd63eb-3373-4bfe-858f-95601f419c5d" /> | Field Modulation | 1 | Unlocks Global Energy Management |
+
+| <img width="52" height="52" alt="image" src="https://github.com/user-attachments/assets/7e7330d5-27fe-44d0-a8c6-e127dccbddbf" /> | Dyson Swarm | 2 | Our Capital Star makes for an excellent target of a Dyson Swarm |
 
 
 
