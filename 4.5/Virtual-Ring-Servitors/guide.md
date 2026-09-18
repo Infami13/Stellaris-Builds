@@ -101,6 +101,7 @@ Settle the other two Ring Segments as soon as possible; do not move Bio-Trophies
 | <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/7c700e4d-b486-40d1-b3bc-751182a579b1" /> | Prosperity | Unlocks Favored Society Agenda <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/a71d9f86-3615-4f2c-b1c9-60ded7a3ad28" />; Switch to this Agenda immediately and then back to Finding the Voice after its launched |
 | <img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/4c3b454c-9d6a-40ab-8c8b-cc4031adedd3" /> | Standard Construction Templates | Quicker and cheaper construction |
 
+#### Do not finish Prosperity yet; now adopt and finish Statecraft <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/8df951d3-07f2-4daa-9124-1059455fde61" />
 
 
 
