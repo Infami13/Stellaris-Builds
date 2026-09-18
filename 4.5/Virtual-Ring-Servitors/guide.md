@@ -44,7 +44,7 @@ The main focus of this build is to maximize research to rush a Cosmogenesis vict
 | -------- | -------- | -------- | -------- |
 | <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/0ce6a2de-4fd6-4e4d-b146-7567840b49af" /> | Council    | F2   | Change Agenda to Finding the Voice |
 | <img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/0bf96916-1eb8-45ee-b4ea-9fb0064dca56" /> | Policies & Edicts    | F2 → C   | Change Diplomatic Stance to Isolationist for extra Unity |
-| <img width="38" height="38" alt="image" src="https://github.com/user-attachments/assets/441c90c9-11db-445a-bc8a-24f4cc8a4b14" /> | Capital | 1 → C | Limit Artisan Drones and Fabricators to near 0; they are consuming too many minerals that we need for early development |
+| <img width="38" height="38" alt="image" src="https://github.com/user-attachments/assets/441c90c9-11db-445a-bc8a-24f4cc8a4b14" /> | Capital | 1 → C | Limit Artisan Drones <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/07236996-1920-4bca-9325-9ea4c98c9bf5" /> and Fabricators <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/9035376c-c722-4587-a7db-e4fa28b66a80" /> to near 0; they are consuming too many minerals that we need for early development |
 
 |  |  |  |  |
 
