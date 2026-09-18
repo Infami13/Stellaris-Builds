@@ -25,7 +25,7 @@
 |  | Rooted | Controlled settlement of our Bio-Trophies to avoid them migrating to low-habitability ring sections too soon |
 
 ## Build Summary
-The goal of this build is to maximize Research while maintaining a low Empire Size, stacking Complex Drone efficiency gained from Bio-Trophies with extra Research output from the Virtual Research Focus Policy.
+The main focus of this build is to maximize research to rush a Cosmogenesis victory (in a competitive setting) or to stack repeatable technologies for higher fleet power against Crises (in a cooperative setting). It is worth noting that Research Job Efficiency, Research Job Output, Research Speed, and low Empire Size are integral to increasing an empire's overall research output. While Machine Intelligences struggle to gain as much Research Speed as an Individualistic Empire, they do have access to Bio-Trophies that greatly boost the efficiencies of all their Complex Drones. These Bio-Trophies are then stacked with the strengths of Virtuality: low Empire Size and extra Research output from the Virtual Research Focus Policy.
 
 
 ## Build Strengths
