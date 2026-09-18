@@ -67,6 +67,7 @@ Settle the other two Ring Segments as soon as possible; do not move Bio-Trophies
 | Icon | Name | Tier | Notes | 
 | -------- | -------- | -------- | -------- |
 | <img width="52" height="52" alt="image" src="https://github.com/user-attachments/assets/3bde96a8-2247-48e1-b23d-f58e7df18a14" /> | Quantum Computing | 1 | Unlocks building to boost Physics Subroutine Drones |
+| <img width="52" height="52" alt="image" src="https://github.com/user-attachments/assets/44963275-776e-4e19-a216-9df93e4d29ae" /> | Academic Optimization | 1 | Unlocks Alpha Hub (see Key Society Research) | 
 | <img width="52" height="52" alt="image" src="https://github.com/user-attachments/assets/f9bd63eb-3373-4bfe-858f-95601f419c5d" /> | Field Modulation | 1 | Unlocks Global Energy Management |
 | <img width="52" height="52" alt="image" src="https://github.com/user-attachments/assets/05595118-9744-4a87-bd82-816a47d1324d" /> | Global Energy Management | 1 | Unlocks Building and Edict to greatly buff our Energy job output; allows us to clear blocker on damaged Ring Segments |
 | <img width="52" height="52" alt="image" src="https://github.com/user-attachments/assets/aab5c665-4a57-48f1-9071-8a64d1a71ce4" /> | Improved Deflectors | 1 | Allows us to clear blocker on damaged Ring Segments |
@@ -79,7 +80,17 @@ Settle the other two Ring Segments as soon as possible; do not move Bio-Trophies
 | <img width="52" height="52" alt="image" src="https://github.com/user-attachments/assets/2bb5822c-66cb-4b10-989d-9c2b14c225a3" /> | Xenobiology | 1 | Unlocks building to boost Society Subroutine Drones |
 | <img width="52" height="52" alt="image" src="https://github.com/user-attachments/assets/1d276022-fb0f-4b05-838c-d33a378a31f9" /> | Societal Unification | 1 | Unlocks Colonial Centralization |
 | <img width="52" height="52" alt="image" src="https://github.com/user-attachments/assets/366a3aa0-ac63-4845-a096-37bf07a94e98" /> | Colonial Centralization | 2 | Unlocks Tier 3 capital buildings for extra Chronical Drones |
+| <img width="52" height="52" alt="image" src="https://github.com/user-attachments/assets/c703e2f7-d18d-4181-9830-07985590120e" /> | Alpha Hub | 3 | Boost Unity from Bio-Trophies |
 
+### Key Engineering <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/1d4aa57f-3d2b-40a1-b095-adae3fe62137" />
+
+| Icon | Name | Tier | Notes | 
+| -------- | -------- | -------- | -------- |
+| <img width="52" height="52" alt="image" src="https://github.com/user-attachments/assets/c200ae42-7fe4-4385-8917-776cf30a73ac" /> | Nanomechanics | 1 | Unlocks building to boost Engineering Subroutine Drones |
+| <img width="52" height="52" alt="image" src="https://github.com/user-attachments/assets/1b0eca29-8e2d-4c69-8abd-0e891e827e51" /> | Rare Crystal Manufacturing | 2 | Allows us to start producing and trading Rare Crystals for Alpha Hub building |
+| <img width="52" height="52" alt="image" src="https://github.com/user-attachments/assets/91c3141f-7b0d-4572-8a09-79880ad89e46" /> | Arc Furnace | 2 | Extra Source of Alloys and Minerals |
+| <img width="52" height="52" alt="image" src="https://github.com/user-attachments/assets/b65b3e16-e12b-48e2-919b-7e3491b0cf65" /> | Ion Thrusters | 2 | Allows us to clear blocker on damaged Ring Segments |
+| <img width="52" height="52" alt="image" src="https://github.com/user-attachments/assets/4456d439-be3c-4509-a8f5-d17bc8dbfec9" /> | Starhold | 2 | Allows us to clear blocker on damaged Ring Segments |
 
 
 
