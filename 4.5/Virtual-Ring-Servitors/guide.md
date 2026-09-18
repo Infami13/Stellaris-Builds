@@ -110,7 +110,18 @@ Do not finish Prosperity yet; now adopt and finish <img width="24" height="24" a
 
 ### Mega-Engineering Rush
 
-We will experience a large boost to our economy and research after finishing Virtuality as all available drone jobs will automatically be filled. We now push for Mega-Engineering to start fully repair our Ring Segments. 
+We will experience a large boost to our economy and research after finishing Virtuality as all available drone jobs will automatically be filled. We now push for Mega-Engineering to start fully repairing our Ring Segments. To do this, first research the Power chain of Physics Research:
+
+| Icon | Name |
+| -------- | -------- |
+| <img width="52" height="52" alt="image" src="https://github.com/user-attachments/assets/da382b72-ede7-48b6-8568-c22c3e0c23f1" /> | Fusion Power |
+| <img width="52" height="52" alt="image" src="https://github.com/user-attachments/assets/67e84366-a0a9-4a4b-b752-42c55fc7dc62" /> | Cold Fusion Power | 
+| <img width="52" height="52" alt="image" src="https://github.com/user-attachments/assets/bfb3bc3f-feee-43ff-92a4-62f7b68a183f" /> | Antimatter Power |
+| <img width="52" height="52" alt="image" src="https://github.com/user-attachments/assets/f7387f04-89ec-46bd-abbb-da4268fd8c55" /> | Zero Point Power |
+
+
+
+
 
 
 
