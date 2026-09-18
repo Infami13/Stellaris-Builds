@@ -52,6 +52,17 @@ The main focus of this build is to maximize research to rush a Cosmogenesis vict
 
 We will queue two Scientist Ships for Survey of neighboring star systems. We want to add around 20 star systems to our empire as we need this room for Megastructures in the late game. While we only need relatively few systems, we prioritize claiming them before we clash borders with other empires
   
+## Capital Economy
+
+Build a Civilian Industries and Alloy Foundries in your generic building slots (disable and enable them as needed). We will be changing the Mixed Industry district specialization of our Capital to Research Enclave when able. Maintain a healthy amount of energy jobs as we will need a lot of energy to improve our other two Ring Segments.
+
+## Other Colonies
+
+Settle the other two Ring Segments as soon as possible; do not move Bio-Trophies there yet. We need to research some technologies and clear blockers to improve the habitability for our bio pops.
+
+## Key Physics Research <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/9645eed5-26f7-48e6-9224-a38475198ae6" />
+
+
 
 
 
