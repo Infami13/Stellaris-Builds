@@ -108,9 +108,9 @@ Do not finish Prosperity yet; now adopt and finish <img width="24" height="24" a
 <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/14af9fd7-20f1-4964-892b-45ab5bfeff79" /> Technological Ascendancy or <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/819b73f2-39e8-4980-9c66-e9168f37427f" /> Transcendent Learning would be a good first pick. Then <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/123659d1-d255-41de-a067-2b8fd92050e2" /> Enigmatic Engineering as a second. Finally, take 
 <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/cf932094-74c3-43f1-928d-8fcadfce04a9" /> Synthetic Age as your third. Synthetic Age will start a simple situation; we will overclock the Situation in the Situation tab and choose to devote all resources whenever prompted to get the best outcome. Near the end of the situation, we will be prompted to choose between Virtuality, Nanotech, and Modularity. We choose Virtuality.
 
-### Mega-Engineering Rush
+### <img width="52" height="52" alt="image" src="https://github.com/user-attachments/assets/b736324b-ef0a-4b60-bc3c-6431f9d5df46" /> Mega-Engineering Rush
 
-We will experience a large boost to our economy and research after finishing Virtuality as all available drone jobs will automatically be filled. We now push for Mega-Engineering to start fully repairing our Ring Segments. To do this, first research the Power chain of Physics Research:
+We will experience a large boost to our economy and research after finishing Virtuality as all available drone jobs will automatically be filled. We now push for Mega-Engineering to start fully repairing our Ring Segments. To do this, we first focus on the prerequisites of the Mega-Engineering technology (Zero Point Power, Citadel, and Battleships). That is, we first research the Power chain of Physics Research:
 
 | Icon | Name |
 | -------- | -------- |
@@ -118,6 +118,20 @@ We will experience a large boost to our economy and research after finishing Vir
 | <img width="52" height="52" alt="image" src="https://github.com/user-attachments/assets/67e84366-a0a9-4a4b-b752-42c55fc7dc62" /> | Cold Fusion Power | 
 | <img width="52" height="52" alt="image" src="https://github.com/user-attachments/assets/bfb3bc3f-feee-43ff-92a4-62f7b68a183f" /> | Antimatter Power |
 | <img width="52" height="52" alt="image" src="https://github.com/user-attachments/assets/f7387f04-89ec-46bd-abbb-da4268fd8c55" /> | Zero Point Power |
+
+We then fully specialize to Engineering Research and research Ship and Starbase Technologies:
+
+| Icon | Name |
+| -------- | -------- |
+| <img width="52" height="52" alt="image" src="https://github.com/user-attachments/assets/2a2acd3b-2a03-4758-9431-5ff4f799534a" /> | Starhold |
+| <img width="52" height="52" alt="image" src="https://github.com/user-attachments/assets/901448a5-482f-4633-aa5a-1f28710b7a96" /> | Star Fortress |
+| <img width="52" height="52" alt="image" src="https://github.com/user-attachments/assets/27e56302-5bda-4f89-a1c9-c62b1643eea3" /> | Citadel |
+| <img width="52" height="52" alt="image" src="https://github.com/user-attachments/assets/697bc18c-4d4a-447f-9a82-0358c92df3ea" /> | Destroyers |
+| <img width="52" height="52" alt="image" src="https://github.com/user-attachments/assets/3f58d03f-6ee0-4776-a697-04d5af167393" /> | Cruisers |
+| <img width="52" height="52" alt="image" src="https://github.com/user-attachments/assets/08f41c97-2489-4b50-98af-ca629f378ed6" /> | Battleships |
+
+Then, we continue engineering research until we draw Mega-Engineering as an option. If we were able to maintain a healthy Alloy production, we will be able to repair our Ringworld Segments almost as soon as we finish researching Mega-Engineering.
+
 
 
 
