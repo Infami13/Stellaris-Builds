@@ -6,23 +6,23 @@
 
 | Category | Selection | Notes |
 | -------- | -------- | -------- |
-| Species    | Machine   | Unlocks Machine Intelligence   |
-| Ethics    | Gestalt Consciousness   | Unlocks Machine Intelligence   |
-| Authority    | Machine Intelligence   | Unlocks Rogue Servitor   |
-| Civics    | Rogue Servitor   | Increases Complex Drone efficiency, boosting our Empire's Research and Alloys   |
-|     | Memorialist   | Creates Chronicle Drone jobs from Capital buildings, allowing an additional source of Unity for the early game    |
-| Origin    | Shattered Ring   | Ring Worlds scale very well with Virtual Ascension, especially with Research District Specializations   |
+| Species    | <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/a1feeb25-2b87-46f8-8293-2478442da1f5" /> Machine   | Unlocks Machine Intelligence   |
+| Ethics    | <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/c3472525-f4fb-44a0-a497-a05d783dc39b" /> Gestalt Consciousness   | Unlocks Machine Intelligence   |
+| Authority    | <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/87b73d40-197d-47b5-a913-93fec3b149a7" /> Machine Intelligence   | Unlocks Rogue Servitor   |
+| Civics    | <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/19914b53-6292-4ac6-b830-0458876de5a1" /> Rogue Servitor   | Increases Complex Drone efficiency, boosting our Empire's Research and Alloys   |
+|     | <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/361893e9-8ccd-4ec4-9bd7-249d3239ed83" /> Memorialist   | Creates Chronicle Drone jobs from Capital buildings, allowing an additional source of Unity for the early game    |
+| Origin    | <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/eee6fca6-9727-46f6-a007-bfa947ed1eb8" /> Shattered Ring   | Ring Worlds scale very well with Virtual Ascension, especially with Research District Specializations   |
 | Machine Species Traits    | Research Assistants | We will be focusing most of our early game economy on Research to develop and repair our starting Ring World |
-|     | Adaptive Frames | Flexible Trait that allows us to boost both Technician and Research jobs  |
-|     | Mass-Produced | Faster Pop growth for the early game; obsolete after Virtual Ascension  |
-|     | High-Bandwidth | Extra Trait points for the early game; we will remove this trait in the late game to minimize Empire Size  |
-|     | Bulky | Extra Trait points; housing is almost never an issue for Virtual Empires |
-| Bio-Trophy Species    | Any Plantoid or Fungoid | Unlocks Budding |
-| Bio-Trophy Species Traits    | Budding | Extra Bio-Trophy growth, especially for more passive empires |
-|  | Charismatic | Boosts Bio-Trophy efficiency |
-|  | Unbreakable Resolve | Extra colony stability which increases job output |
-|  | Decadent | Flavorful and does not affect Bio-Trophies |
-|  | Rooted | Controlled settlement of our Bio-Trophies to avoid them migrating to low-habitability ring sections too soon |
+|     | <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/08bb178a-2f7a-45b9-9473-79e7b1c19fc2" /> Adaptive Frames | Flexible Trait that allows us to boost both Technician and Research jobs  |
+|     | <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/5fc9ea46-e048-4958-87cf-1223063e2d4d" /> Mass-Produced | Faster Pop growth for the early game; obsolete after Virtual Ascension  |
+|     | <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/805f7dcf-7a37-4af8-8a36-d7568e4ed130" /> High-Bandwidth | Extra Trait points for the early game; we will remove this trait in the late game to minimize Empire Size  |
+|     | <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/a1dd124d-6df8-4121-baa5-e8c1ae557a55" /> Bulky | Extra Trait points; housing is almost never an issue for Virtual Empires |
+| Bio-Trophy Species    | <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/ffefad27-42c3-4955-a22d-6454025c365d" /> Any Plantoid or Fungoid | Unlocks Budding |
+| Bio-Trophy Species Traits    | <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/0c228cec-95f8-46af-a036-cb69145b6699" /> Budding | Extra Bio-Trophy growth, especially for more passive empires |
+|  | <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/38ee86aa-e32c-4b16-af3e-6e5da1bec435" /> Charismatic | Boosts Bio-Trophy efficiency |
+|  | <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/c6ec766d-c085-41e7-84eb-6646d23e2087" /> Unbreakable Resolve | Extra colony stability which increases job output |
+|  | <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/e9a6e24c-8ea6-4f7f-8fcc-a4e0abe1c60f" /> Decadent | Flavorful and does not affect Bio-Trophies |
+|  | <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/31fb0f40-5390-4b98-8249-eaeb6f1e96af" /> Rooted | Controlled settlement of our Bio-Trophies to avoid them migrating to low-habitability ring sections too soon |
 
 ### Build Summary
 The main focus of this build is to maximize research to rush a Cosmogenesis victory (in a competitive setting) or to stack repeatable technologies for higher fleet power against Crises (in a cooperative setting). It is worth noting that Research Job Efficiency, Research Job Output, Research Speed, and low Empire Size are integral to increasing an empire's overall research output. While Machine Intelligences struggle to gain as much Research Speed as an Individualistic Empire, they do have access to Bio-Trophies that greatly boost the efficiencies of all their Complex Drones. These Bio-Trophies are then stacked with the strengths of Virtuality, namely low Empire Size and extra Research output from the Virtual Research Focus Policy.
@@ -131,6 +131,10 @@ We then fully specialize to Engineering Research and research Ship and Starbase 
 | <img width="52" height="52" alt="image" src="https://github.com/user-attachments/assets/08f41c97-2489-4b50-98af-ca629f378ed6" /> | Battleships |
 
 Then, we continue engineering research until we draw Mega-Engineering as an option. If we were able to maintain a healthy Alloy production, we will be able to repair our Ringworld Segments almost as soon as we finish researching Mega-Engineering.
+
+### Onward
+
+The build is pretty flexible from here, so try different combinations of Traditions and Colony setups. Virtuality tends to benefit from a low colony count (about 8), so extra colonies and expansion can be vassalized as Scholariums for extra research without penalties to Empire Size or Virtual Job Efficiency.
 
 
 
