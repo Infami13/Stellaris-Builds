@@ -43,7 +43,9 @@ The main focus of this build is to maximize research to rush a Cosmogenesis vict
 | Icon | Name | Hotkey | Notes | 
 | -------- | -------- | -------- | -------- |
 | <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/0ce6a2de-4fd6-4e4d-b146-7567840b49af" /> | Council    | F2   | Change Agenda to Finding the Voice |
-| <img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/0bf96916-1eb8-45ee-b4ea-9fb0064dca56" /> | Policies & Edicts    | F2 -> C   | Change Diplomatic Stance to Isolationist for extra Unity |
+| <img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/0bf96916-1eb8-45ee-b4ea-9fb0064dca56" /> | Policies & Edicts    | F2 → C   | Change Diplomatic Stance to Isolationist for extra Unity |
+| <img width="38" height="38" alt="image" src="https://github.com/user-attachments/assets/441c90c9-11db-445a-bc8a-24f4cc8a4b14" /> | Capital | 1 → C | Limit Artisan Drones and Fabricators to near 0; they are consuming too many minerals that we need for early development |
+
 |  |  |  |  |
 
 
