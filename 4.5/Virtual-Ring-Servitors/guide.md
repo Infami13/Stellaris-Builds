@@ -72,6 +72,9 @@ Settle the other two Ring Segments as soon as possible; do not move Bio-Trophies
 | <img width="52" height="52" alt="image" src="https://github.com/user-attachments/assets/aab5c665-4a57-48f1-9071-8a64d1a71ce4" /> | Improved Deflectors | 1 | Allows us to clear blocker on damaged Ring Segments |
 | <img width="52" height="52" alt="image" src="https://github.com/user-attachments/assets/7e7330d5-27fe-44d0-a8c6-e127dccbddbf" /> | Dyson Swarm | 2 | Our Capital Star makes for an excellent target of a Dyson Swarm |
 
+### Key Society Research <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/88217828-bcd0-4d0b-bd9a-bc4e9620b149" />
+
+| Icon | Name | Tier | Notes | 
 
 
 
