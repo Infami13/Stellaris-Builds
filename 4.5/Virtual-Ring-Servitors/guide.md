@@ -22,7 +22,7 @@
 |  | Charismatic | Boosts Bio-Trophy efficiency |
 |  | Unbreakable Resolve | Extra colony stability which increases job output |
 |  | Decadent | Flavorful and does not affect Bio-Trophies |
-|  | Rooted | Extra trait point; controlled settlement of our Bio-Trophies to avoid them migrating to broken ring sections too early |
+|  | Rooted | Controlled settlement of our Bio-Trophies to avoid them migrating to low-habitability ring sections too soon |
 
 
 
