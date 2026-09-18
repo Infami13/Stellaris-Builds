@@ -40,9 +40,9 @@ The main focus of this build is to maximize research to rush a Cosmogenesis vict
 - Moderate late-game potential
 
 ## Turn Zero Setup
-| Name | Hotkey | Notes |
-| -------- | -------- | -------- |
-| Government    | F2   | Change Agenda to Finding the Voice <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/0ce6a2de-4fd6-4e4d-b146-7567840b49af" />
+| Icon | Name | Hotkey | Notes | 
+| -------- | -------- | -------- | -------- |
+| <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/0ce6a2de-4fd6-4e4d-b146-7567840b49af" /> | Government    | F2   | Change Agenda to Finding the Voice 
   |
 | Ethics    | Gestalt Consciousness   | Unlocks Machine Intelligence   |
 | Authority    | Machine Intelligence   | Unlocks Rogue Servitor   |
