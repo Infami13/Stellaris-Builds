@@ -25,7 +25,7 @@
 |  | Rooted | Controlled settlement of our Bio-Trophies to avoid them migrating to low-habitability ring sections too soon |
 
 ### Build Summary
-The main focus of this build is to maximize research to rush a Cosmogenesis victory (in a competitive setting) or to stack repeatable technologies for higher fleet power against Crises (in a cooperative setting). It is worth noting that Research Job Efficiency, Research Job Output, Research Speed, and low Empire Size are integral to increasing an empire's overall research output. While Machine Intelligences struggle to gain as much Research Speed as an Individualistic Empire, they do have access to Bio-Trophies that greatly boost the efficiencies of all their Complex Drones. These Bio-Trophies are then stacked with the strengths of Virtuality: low Empire Size and extra Research output from the Virtual Research Focus Policy.
+The main focus of this build is to maximize research to rush a Cosmogenesis victory (in a competitive setting) or to stack repeatable technologies for higher fleet power against Crises (in a cooperative setting). It is worth noting that Research Job Efficiency, Research Job Output, Research Speed, and low Empire Size are integral to increasing an empire's overall research output. While Machine Intelligences struggle to gain as much Research Speed as an Individualistic Empire, they do have access to Bio-Trophies that greatly boost the efficiencies of all their Complex Drones. These Bio-Trophies are then stacked with the strengths of Virtuality, namely low Empire Size and extra Research output from the Virtual Research Focus Policy.
 
 
 ### Build Strengths
@@ -47,6 +47,12 @@ The main focus of this build is to maximize research to rush a Cosmogenesis vict
 | <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/441c90c9-11db-445a-bc8a-24f4cc8a4b14" /> | Capital | 1 → C | Limit Artisan Drones <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/07236996-1920-4bca-9325-9ea4c98c9bf5" /> and Fabricators <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/9035376c-c722-4587-a7db-e4fa28b66a80" /> to near 0; they are consuming too many minerals that we need for early development |
 
 ![image](limit.png)
+
+## Expansion
+
+We will queue two Scientist Ships for Survey of neighboring star systems. We want to add around 20 star systems to our empire as we need this room for Megastructures in the late game. While we only need relatively few systems, we prioritize claiming them before we clash borders with other empires
+  
+
 
 
 
