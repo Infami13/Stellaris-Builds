@@ -25,14 +25,14 @@
 |  | Rooted | Controlled settlement of our Bio-Trophies to avoid them migrating to low-habitability ring sections too soon |
 
 ## Build Summary
-
+The goal of this build is to maximize Research while maintaining a low Empire Size, stacking Complex Drone efficiency gained from Bio-Trophies with extra Research output from the Virtual Research Focus Policy.
 
 
 ## Build Strengths
 - High Research Output
+- Extremely High Complex Drone Job Efficiency
 - Low Empire Size
-- High Complex Drone Job Efficiency
-- Extremely high mid-game power spike
+- High mid-game power spike
 
 ## Build Weaknesses
 - Low Unity Output
