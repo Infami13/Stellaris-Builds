@@ -68,7 +68,8 @@ Settle the other two Ring Segments as soon as possible; do not move Bio-Trophies
 | -------- | -------- | -------- | -------- |
 | <img width="52" height="52" alt="image" src="https://github.com/user-attachments/assets/3bde96a8-2247-48e1-b23d-f58e7df18a14" /> | Quantum Computing | 1 | Unlocks building to boost Physics Subroutine Drones |
 | <img width="52" height="52" alt="image" src="https://github.com/user-attachments/assets/f9bd63eb-3373-4bfe-858f-95601f419c5d" /> | Field Modulation | 1 | Unlocks Global Energy Management |
-
+| <img width="52" height="52" alt="image" src="https://github.com/user-attachments/assets/05595118-9744-4a87-bd82-816a47d1324d" /> | Global Energy Management | 1 | Unlocks Building and Edict to greatly buff our Energy job output; allows us to clear blocker on damaged Ring Segments |
+| <img width="52" height="52" alt="image" src="https://github.com/user-attachments/assets/aab5c665-4a57-48f1-9071-8a64d1a71ce4" /> | Improved Deflectors | 1 | Allows us to clear blocker on damaged Ring Segments |
 | <img width="52" height="52" alt="image" src="https://github.com/user-attachments/assets/7e7330d5-27fe-44d0-a8c6-e127dccbddbf" /> | Dyson Swarm | 2 | Our Capital Star makes for an excellent target of a Dyson Swarm |
 
 
