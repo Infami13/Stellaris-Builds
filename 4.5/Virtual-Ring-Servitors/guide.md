@@ -17,7 +17,6 @@
 |     | Mass-Produced | Faster Pop growth for the early game; obsolete after Virtual Ascension  |
 |     | High-Bandwidth | Extra Trait points for the early game; we will remove this trait in the late game to minimize Empire Size  |
 |     | Bulky | Extra Trait points for the early game; we will remove this trait in the late game to minimize Empire Size  |
-<span style="color:blue">some *blue* text</span>.
 
 
 | Authority    | Machine Intelligence   | Unlocks Rogue Servitor   |
