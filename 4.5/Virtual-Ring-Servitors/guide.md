@@ -75,6 +75,10 @@ Settle the other two Ring Segments as soon as possible; do not move Bio-Trophies
 ### Key Society Research <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/88217828-bcd0-4d0b-bd9a-bc4e9620b149" />
 
 | Icon | Name | Tier | Notes | 
+| -------- | -------- | -------- | -------- |
+| <img width="52" height="52" alt="image" src="https://github.com/user-attachments/assets/2bb5822c-66cb-4b10-989d-9c2b14c225a3" /> | Xenobiology | 1 | Unlocks building to boost Society Subroutine Drones |
+| <img width="52" height="52" alt="image" src="https://github.com/user-attachments/assets/1d276022-fb0f-4b05-838c-d33a378a31f9" /> | Societal Unification | 1 | Unlocks Colonial Centralization |
+| <img width="52" height="52" alt="image" src="https://github.com/user-attachments/assets/366a3aa0-ac63-4845-a096-37bf07a94e98" /> | Colonial Centralization | 2 | Unlocks Tier 3 capital buildings for extra Chronical Drones |
 
 
 
