@@ -105,8 +105,8 @@ Do not finish Prosperity yet; now adopt and finish <img width="24" height="24" a
 
 ### Ascension Perk Progression
 
-<img width="52" height="60" alt="image" src="https://github.com/user-attachments/assets/14af9fd7-20f1-4964-892b-45ab5bfeff79" /> Technological Ascendancy or <img width="52" height="60" alt="image" src="https://github.com/user-attachments/assets/819b73f2-39e8-4980-9c66-e9168f37427f" /> Transcendent Learning would be a good first pick. Then <img width="52" height="60" alt="image" src="https://github.com/user-attachments/assets/123659d1-d255-41de-a067-2b8fd92050e2" /> Enigmatic Engineering as a second. Finally, take 
-<img width="52" height="60" alt="image" src="https://github.com/user-attachments/assets/cf932094-74c3-43f1-928d-8fcadfce04a9" /> Synthetic Age as your third. Synthetic Age will start a simple situation; we will overclock the Situation in the Situation tab and choose to devote all resources whenever prompted to get the best outcome. Near the end of the situation, we will be prompted to choose between Virtuality, Nanotech, and Modularity. We choose Virtuality.
+<img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/14af9fd7-20f1-4964-892b-45ab5bfeff79" /> Technological Ascendancy or <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/819b73f2-39e8-4980-9c66-e9168f37427f" /> Transcendent Learning would be a good first pick. Then <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/123659d1-d255-41de-a067-2b8fd92050e2" /> Enigmatic Engineering as a second. Finally, take 
+<img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/cf932094-74c3-43f1-928d-8fcadfce04a9" /> Synthetic Age as your third. Synthetic Age will start a simple situation; we will overclock the Situation in the Situation tab and choose to devote all resources whenever prompted to get the best outcome. Near the end of the situation, we will be prompted to choose between Virtuality, Nanotech, and Modularity. We choose Virtuality.
 
 ### Mega-Engineering Rush
 
